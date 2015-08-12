@@ -1,9 +1,12 @@
-# DynamicLyrics
+# My Own Dynamic Lyrics
 =============
 
 ## Overview
+Here we go! This music lyric is one of the outstanding and excellent tools from [iTunes](http://www.apple.com/itunes/download/) that you might want to know! 
 
-**DynamicLyrics**, free iTunes assistant designed for u.
+I have searched and created a dynamic lyric for all who wanted an easy access that will automatically register a song and deliver the lyrics completely right before you. You can install the whole platform and extract it to your device or computer in no time. This iTunes has also a unique design that you will surely love! Come and grab it instantly! Don’t worry, there is no [loans](http://paydayloansnow.co.uk) for you XD
+
+
 
 ## Features
 
